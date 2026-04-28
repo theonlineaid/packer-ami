@@ -1,0 +1,7 @@
+.env
+
+*.log
+packer_cache/
+output-*/
+.terraform/
+*.tfstate*
