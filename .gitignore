@@ -5,3 +5,12 @@ packer_cache/
 output-*/
 .terraform/
 *.tfstate*
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.tfvars
+*.tfvars.json
+*.tfvars.yaml
+*.tfvars.yml
+*.tfvars.tfvars     
